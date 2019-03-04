@@ -1,2 +1,2 @@
 # Final-Project
-Final Project JS Fundamental Development Course Batch II Medan
+Final Project Hacktiv8 JS Fundamental Development Course Batch II Medan
